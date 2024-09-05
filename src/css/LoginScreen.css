@@ -1,0 +1,93 @@
+.android-large-1 {
+    background-color: rgba(251, 251, 251, 1);
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .title-text {
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 158px;
+    left: 50px;
+    font-family: 'Open Sans';
+    font-size: 36px;
+    font-weight: 400;
+    text-decoration: underline;
+  }
+  
+  .subtext {
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 203px;
+    left: 42px;
+    font-family: 'Open Sans Hebrew';
+    font-size: 18px;
+    font-weight: 700;
+  }
+  
+  .button {
+    background-color: rgba(217, 4, 41, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 1);
+  }
+  
+  .login-button {
+    position: absolute;
+    top: 584px;
+    left: 123px;
+  }
+  
+  .guest-button {
+    position: absolute;
+    top: 584px;
+    left: 187px;
+  }
+  
+  .create-account {
+    color: rgba(0, 0, 0, 1);
+    position: absolute;
+    top: 622px;
+    left: 107px;
+    font-family: 'Open Sans';
+    font-size: 15px;
+    font-weight: 700;
+  }
+  
+  .frame03-placeholder-icon {
+    background-color: rgba(239, 239, 240, 1);
+    width: 300px;
+    height: 175px;
+    display: flex;
+    align-items: flex-start;
+    border-radius: 8px;
+    border: 2px solid rgba(174, 176, 182, 1);
+    position: absolute;
+    top: 321px;
+    left: 30px;
+    overflow: hidden;
+  }
+
+  .iconly-light-outline-image {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 76px;
+    left: 138px;
+  }
+  
+  .icon-fill1 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -0.0002px;
+    left: 0px;
+  }
+  
